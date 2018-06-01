@@ -51,3 +51,5 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 **Art. 21.** Tout animal doit être traité avec dignité et respect.
 
 **Art. 22.** De la joie et de la bonne humeur toute l'année!
+
+**Art. 23.** Git à toutes les sauces ;)
